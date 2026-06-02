@@ -1,0 +1,6 @@
+memory
+.env
+agents/.env
+
+__pycache__/
+*.pyc
